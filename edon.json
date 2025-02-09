@@ -1,0 +1,856 @@
+{
+    "products": [
+        {
+            "id": 4457773,
+            "key": "uns218bl",
+            "schema": {
+                "id": 60,
+                "key": "chainsaw",
+                "name": "Цепные электро- и бензопилы"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "UNS-21\/8BL (с 2-мя АКБ)",
+            "full_name": "Edon UNS-21\/8BL (с 2-мя АКБ)",
+            "name_prefix": "Аккумуляторная пила",
+            "extended_name": "Аккумуляторная пила Edon UNS-21\/8BL (с 2-мя АКБ)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/5i1YlAmIFz257mg1-MKI4QxIEvtz6-7rZh2_BFUHgpU\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvMDRjN2M0NjZi\/NmNmNjZiYWY3ZDZm\/ZjQ2NDY5OWEyODAu\/anBn"
+            },
+            "description": "аккумуляторная, бытовая, 21 В, длина шины: 20 см, аккумулятор в комплекте, 0.9 кг",
+            "description_list": [
+                "аккумуляторная",
+                "бытовая",
+                "21 В",
+                "длина шины: 20 см",
+                "аккумулятор в комплекте",
+                "0.9 кг"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns218bl",
+            "reviews": {
+                "rating": 50,
+                "count": 2,
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns218bl\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/uns218bl\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/uns218bl",
+            "prices": {
+                "price_min": {
+                    "amount": "200.42",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "200.42",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "240.87",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "240.87",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 29
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns218bl\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/uns218bl\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 51.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4423954,
+            "key": "6937888233739",
+            "schema": {
+                "id": 250,
+                "key": "screwdriver",
+                "name": "Шуруповерты, гайковерты, электроотвертки"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-16BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "full_name": "Edon AD-16BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "name_prefix": "Дрель-шуруповерт",
+            "extended_name": "Дрель-шуруповерт Edon AD-16BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/x1yeaCPdo97KYAHrElLZUHzJAx62h4u3MRyEJjNCnRw\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvNDk3Yzg3ZmM1\/ODBhZTFiMzQzYjky\/NGFhOTkwMGYwNzku\/anBn"
+            },
+            "description": "питание: аккумуляторный, Li-ion, 1380 об\/мин, 50 Н·м, напряжение аккумулятора: 16 В, ёмкость аккумулятора: 2 А·ч, аккумулятор в комплекте",
+            "description_list": [
+                "питание: аккумуляторный",
+                "Li-ion",
+                "1380 об\/мин",
+                "50 Н·м",
+                "напряжение аккумулятора: 16 В",
+                "ёмкость аккумулятора: 2 А·ч",
+                "аккумулятор в комплекте"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233739",
+            "reviews": {
+                "rating": 47,
+                "count": 3,
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233739\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233739\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233739",
+            "prices": {
+                "price_min": {
+                    "amount": "148.00",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "148.00",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "211.56",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "211.56",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 32
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233739\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/6937888233739\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 44.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4423952,
+            "key": "6937888233760",
+            "schema": {
+                "id": 250,
+                "key": "screwdriver",
+                "name": "Шуруповерты, гайковерты, электроотвертки"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-18BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "full_name": "Edon AD-18BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "name_prefix": "Дрель-шуруповерт",
+            "extended_name": "Дрель-шуруповерт Edon AD-18BL (с 2-мя АКБ, кейс, набор оснастки)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/FZaI2fo_UrTQdnEWzmTLQhUnrnnV0VX0jo_IhpQsEaY\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvOGMxOGE3MmVk\/OWU0ZDQwOTM1NmMw\/NTgxOGJhZGE0M2Mu\/anBn"
+            },
+            "description": "питание: аккумуляторный, Li-ion, 1430 об\/мин, 60 Н·м, напряжение аккумулятора: 18 В, ёмкость аккумулятора: 2 А·ч, аккумулятор в комплекте",
+            "description_list": [
+                "питание: аккумуляторный",
+                "Li-ion",
+                "1430 об\/мин",
+                "60 Н·м",
+                "напряжение аккумулятора: 18 В",
+                "ёмкость аккумулятора: 2 А·ч",
+                "аккумулятор в комплекте"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233760",
+            "reviews": {
+                "rating": 50,
+                "count": 1,
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233760\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233760\/reviews"
+            },
+            "review_url": "https:\/\/realt.onliner.by\/2024\/05\/23\/akkumulyatornaya-sadovaya-texnika-i-instrument",
+            "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233760",
+            "prices": {
+                "price_min": {
+                    "amount": "156.86",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "156.86",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "237.39",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "237.39",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 30
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233760\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/6937888233760\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 41.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4457775,
+            "key": "uns2110bl",
+            "schema": {
+                "id": 60,
+                "key": "chainsaw",
+                "name": "Цепные электро- и бензопилы"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "UNS-21\/10BL (с 2-мя АКБ)",
+            "full_name": "Edon UNS-21\/10BL (с 2-мя АКБ)",
+            "name_prefix": "Аккумуляторная пила",
+            "extended_name": "Аккумуляторная пила Edon UNS-21\/10BL (с 2-мя АКБ)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/jxR4erODkTJAO2HVb08EUPljhhUKW6ITYlhcyYkpKro\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvMzYzZmM4ODNh\/MThjYWE4ZWJiNjgx\/ZWNlYmE4NjQxNTAu\/anBn"
+            },
+            "description": "аккумуляторная, бытовая, 21 В, шаг цепи: 3\/8 дюйма, длина шины: 25.5 см, аккумулятор в комплекте, 2.8 кг",
+            "description_list": [
+                "аккумуляторная",
+                "бытовая",
+                "21 В",
+                "шаг цепи: 3\/8 дюйма",
+                "длина шины: 25.5 см",
+                "аккумулятор в комплекте",
+                "2.8 кг"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns2110bl",
+            "reviews": {
+                "rating": 50,
+                "count": 2,
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns2110bl\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/uns2110bl\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/uns2110bl",
+            "prices": {
+                "price_min": {
+                    "amount": "240.72",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "240.72",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "301.54",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "301.54",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 32
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns2110bl\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/uns2110bl\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 39.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4457770,
+            "key": "uns216bl",
+            "schema": {
+                "id": 60,
+                "key": "chainsaw",
+                "name": "Цепные электро- и бензопилы"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "UNS-21\/6BL (с 2-мя АКБ)",
+            "full_name": "Edon UNS-21\/6BL (с 2-мя АКБ)",
+            "name_prefix": "Аккумуляторная пила",
+            "extended_name": "Аккумуляторная пила Edon UNS-21\/6BL (с 2-мя АКБ)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/Rt17SsWmMYKSzXklkHub0JeTXQimjub_BmfxvO8prAU\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvYjRiNTcxMmVk\/Y2YyMzhlZmU3NjI5\/YWU3ZmY5MGUzZWQu\/anBn"
+            },
+            "description": "аккумуляторная, бытовая, 21 В, длина шины: 15 см, аккумулятор в комплекте, 0.9 кг",
+            "description_list": [
+                "аккумуляторная",
+                "бытовая",
+                "21 В",
+                "длина шины: 15 см",
+                "аккумулятор в комплекте",
+                "0.9 кг"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns216bl",
+            "reviews": {
+                "rating": 50,
+                "count": 2,
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns216bl\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/uns216bl\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/uns216bl",
+            "prices": {
+                "price_min": {
+                    "amount": "192.71",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "192.71",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "225.61",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "225.61",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 30
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/chainsaw\/edon\/uns216bl\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/uns216bl\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 22.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4423947,
+            "key": "6937888233777",
+            "schema": {
+                "id": 250,
+                "key": "screwdriver",
+                "name": "Шуруповерты, гайковерты, электроотвертки"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-21PBL (с 2-мя АКБ, кейс, набор оснастки)",
+            "full_name": "Edon AD-21PBL (с 2-мя АКБ, кейс, набор оснастки)",
+            "name_prefix": "Дрель-шуруповерт",
+            "extended_name": "Дрель-шуруповерт Edon AD-21PBL (с 2-мя АКБ, кейс, набор оснастки)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/RPqdMjGT3T1QlcW6Hqeh8JwrM5k9IZBTT8SKJqSFXbY\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvNDA5ZmI0ODY5\/NDcwMGUxYWJkYmE1\/ZDBlMWY5OGQzNDMu\/anBn"
+            },
+            "description": "питание: аккумуляторный, Li-ion, 1280 об\/мин, 65 Н·м, напряжение аккумулятора: 21 В, ёмкость аккумулятора: 2 А·ч, аккумулятор в комплекте",
+            "description_list": [
+                "питание: аккумуляторный",
+                "Li-ion",
+                "1280 об\/мин",
+                "65 Н·м",
+                "напряжение аккумулятора: 21 В",
+                "ёмкость аккумулятора: 2 А·ч",
+                "аккумулятор в комплекте"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233777",
+            "reviews": {
+                "rating": 50,
+                "count": 1,
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233777\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233777\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/6937888233777",
+            "prices": {
+                "price_min": {
+                    "amount": "206.12",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "206.12",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "286.20",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "286.20",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 30
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/6937888233777\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/6937888233777\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 17.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 4606018,
+            "key": "ed28006",
+            "schema": {
+                "id": 250,
+                "key": "screwdriver",
+                "name": "Шуруповерты, гайковерты, электроотвертки"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-16CBL (с 2-мя АКБ, кейс)",
+            "full_name": "Edon AD-16CBL (с 2-мя АКБ, кейс)",
+            "name_prefix": "Дрель-шуруповерт",
+            "extended_name": "Дрель-шуруповерт Edon AD-16CBL (с 2-мя АКБ, кейс)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/W_xIvE2ib2ZK_V2sv-pXDzobRVZ-SCxToS6Um_d3xos\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvN2MyY2IxMTdk\/ZWQ5ZDNiMzljMzky\/NjNiZDg5YjYwODUu\/cG5n"
+            },
+            "description": "питание: аккумуляторный, Li-ion, 1430 об\/мин, 30 Н·м, напряжение аккумулятора: 16 В, ёмкость аккумулятора: 1.5 А·ч, аккумулятор в комплекте, 800 г",
+            "description_list": [
+                "питание: аккумуляторный",
+                "Li-ion",
+                "1430 об\/мин",
+                "30 Н·м",
+                "напряжение аккумулятора: 16 В",
+                "ёмкость аккумулятора: 1.5 А·ч",
+                "аккумулятор в комплекте",
+                "800 г"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/ed28006",
+            "reviews": {
+                "rating": 0,
+                "count": 0,
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/ed28006\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/ed28006\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/ed28006",
+            "prices": {
+                "price_min": {
+                    "amount": "122.05",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "122.05",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "156.93",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "156.93",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 29
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/ed28006\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/ed28006\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 15.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 3721428,
+            "key": "edonad18e",
+            "schema": {
+                "id": 250,
+                "key": "screwdriver",
+                "name": "Шуруповерты, гайковерты, электроотвертки"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-18E (с 2-мя АКБ, кейс, набор оснастки)",
+            "full_name": "Edon AD-18E (с 2-мя АКБ, кейс, набор оснастки)",
+            "name_prefix": "Дрель-шуруповерт",
+            "extended_name": "Дрель-шуруповерт Edon AD-18E (с 2-мя АКБ, кейс, набор оснастки)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/tR-cLVoZAEEudQJ5PL-cb4g_Oxa_8iWbu3oWaSpviy0\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvMjAyYzhlNWNi\/NzgzZWQ0ZTQ2YTRi\/MzFiZDVmNGZmOWEu\/anBn"
+            },
+            "description": "питание: аккумуляторный, Li-ion, 1500 об\/мин, 25 Н·м, напряжение аккумулятора: 18 В, ёмкость аккумулятора: 2 А·ч, аккумулятор в комплекте, 1300 г",
+            "description_list": [
+                "питание: аккумуляторный",
+                "Li-ion",
+                "1500 об\/мин",
+                "25 Н·м",
+                "напряжение аккумулятора: 18 В",
+                "ёмкость аккумулятора: 2 А·ч",
+                "аккумулятор в комплекте",
+                "1300 г"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/edonad18e",
+            "reviews": {
+                "rating": 45,
+                "count": 2,
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/edonad18e\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/edonad18e\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/edonad18e",
+            "prices": {
+                "price_min": {
+                    "amount": "112.44",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "112.44",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "169.50",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "169.50",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 29
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/screwdriver\/edon\/edonad18e\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/edonad18e\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 15.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 3250766,
+            "key": "202020100009",
+            "schema": {
+                "id": 100,
+                "key": "electric_saw",
+                "name": "Циркулярные, торцовочные и сабельные пилы"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AD-21FJ (с 2-мя АКБ, кейс)",
+            "full_name": "Edon AD-21FJ (с 2-мя АКБ, кейс)",
+            "name_prefix": "Сабельная пила",
+            "extended_name": "Сабельная пила Edon AD-21FJ (с 2-мя АКБ, кейс)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/AEtqg1uHyQM1iV5Mlq9Jw-zvJGJ802eTfJu1olo6Nt4\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvMjAxYjQwZTE1\/Yzk0NjRkMWI1MjFm\/MmVmZmU1NDJmZmIu\/anBn"
+            },
+            "description": "сабельная, питание: аккумулятор (21 В), аккумулятор в комплекте",
+            "description_list": [
+                "сабельная",
+                "питание: аккумулятор (21 В)",
+                "аккумулятор в комплекте"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/electric_saw\/edon\/202020100009",
+            "reviews": {
+                "rating": 39,
+                "count": 7,
+                "html_url": "https:\/\/catalog.onliner.by\/electric_saw\/edon\/202020100009\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/202020100009\/reviews"
+            },
+            "review_url": null,
+            "url": "https:\/\/catalog.api.onliner.by\/products\/202020100009",
+            "prices": {
+                "price_min": {
+                    "amount": "240.56",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "240.56",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "315.67",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "315.67",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 33
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/electric_saw\/edon\/202020100009\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/202020100009\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 13.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        },
+        {
+            "id": 3807613,
+            "key": "agt18",
+            "schema": {
+                "id": 301,
+                "key": "trimmers",
+                "name": "Триммеры"
+            },
+            "manufacturer": {
+                "id": 11157,
+                "key": "edon",
+                "name": "Edon"
+            },
+            "name": "AGT-18 (с 2-мя АКБ)",
+            "full_name": "Edon AGT-18 (с 2-мя АКБ)",
+            "name_prefix": "Триммер",
+            "extended_name": "Триммер Edon AGT-18 (с 2-мя АКБ)",
+            "status": "active",
+            "images": {
+                "header": "https:\/\/imgproxy.onliner.by\/RoKYZU7oAmIF9VRKZKcEHufj_BbiM-Yx2e_b1-VWs5A\/w:170\/h:250\/z:2\/f:jpg\/aHR0cHM6Ly9jb250\/ZW50Lm9ubGluZXIu\/YnkvY2F0YWxvZy9k\/ZXZpY2Uvb3JpZ2lu\/YWwvZGYyM2RhYWRl\/MzExODRiNjYxNGRj\/ZjExMzg3YzhjMDku\/anBn"
+            },
+            "description": "аккумуляторный, оснастка: металлический нож+металлический диск+пластиковый нож, ширина скашивания: 15 см, 18 В, аккумулятор в комплекте, 1 кг",
+            "description_list": [
+                "аккумуляторный",
+                "оснастка: металлический нож+металлический диск+пластиковый нож",
+                "ширина скашивания: 15 см",
+                "18 В",
+                "аккумулятор в комплекте",
+                "1 кг"
+            ],
+            "html_url": "https:\/\/catalog.onliner.by\/trimmers\/edon\/agt18",
+            "reviews": {
+                "rating": 45,
+                "count": 6,
+                "html_url": "https:\/\/catalog.onliner.by\/trimmers\/edon\/agt18\/reviews",
+                "url": "https:\/\/catalog.api.onliner.by\/products\/agt18\/reviews"
+            },
+            "review_url": "https:\/\/realt.onliner.by\/2024\/05\/23\/akkumulyatornaya-sadovaya-texnika-i-instrument",
+            "url": "https:\/\/catalog.api.onliner.by\/products\/agt18",
+            "prices": {
+                "price_min": {
+                    "amount": "141.15",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "141.15",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "price_max": {
+                    "amount": "191.52",
+                    "currency": "BYN",
+                    "converted": {
+                        "BYN": {
+                            "amount": "191.52",
+                            "currency": "BYN"
+                        }
+                    }
+                },
+                "offers": {
+                    "count": 36
+                },
+                "html_url": "https:\/\/catalog.onliner.by\/trimmers\/edon\/agt18\/prices",
+                "url": "https:\/\/shop.api.onliner.by\/products\/agt18\/positions"
+            },
+            "second": {
+                "offers_count": 0,
+                "min_price": null
+            },
+            "in_bookmarks": false,
+            "sale": {
+                "subscribed": false,
+                "can_be_subscribed": true
+            },
+            "explain": {
+                "total": 1.0,
+                "typo": 1.0,
+                "stock_status:desc": 2.0,
+                "rating:desc": 13.0,
+                "proximity": 1.0,
+                "exactness": 0.33
+            }
+        }
+    ],
+    "total": 786,
+    "page": {
+        "limit": 10,
+        "items": 10,
+        "current": 1,
+        "last": 79
+    }
+}
