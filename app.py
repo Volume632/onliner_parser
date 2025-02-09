@@ -46,11 +46,17 @@ if __name__ == "__main__":
             writer.writerow(["Название", "Цена min (BYN)", "Цена max (BYN)", "Ссылка"])
 
             for el in products:
-                name = el.get("name", "Нет данных")
+                name = el.get("extended_name", "Нет данных")
 
                 prices = el.get("prices") or {}  # Если "prices" == None → делаем пустой словарь
                 price_min = prices.get("price_min", {}).get("amount", "Нет цены")
                 price_max = prices.get("price_max", {}).get("amount", "Нет цены")
+
+                # Заменяем "." на "," для корректного формата
+                if isinstance(price_min, str):
+                    price_min = price_min.replace(".", ",")
+                if isinstance(price_max, str):
+                    price_max = price_max.replace(".", ",")
 
                 link = el.get("html_url", "Нет ссылки")
 
